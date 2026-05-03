@@ -39,7 +39,10 @@ I am training to be a **Software Engineer** with a foundation in **Theoretical P
 - [ ] Compete in the Zonal Informatics Olympiad (ZIO).
 - [ ] Score 100% in high school core subjects.
 - [ ] Push my first Open-Source contribution.
-
+- [ ] Make a highly realistic game.
+- [ ] Get into MIT refine my skills.
+- [ ] Contribute to physics and quantum computing to make
+  a better world.
 ---
 
 <p align="center">
