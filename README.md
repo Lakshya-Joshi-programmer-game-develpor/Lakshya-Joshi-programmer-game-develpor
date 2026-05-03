@@ -2,13 +2,13 @@
 ### **Architecting Digital Worlds | C++ & Physics Enthusiast**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" alt="Technical Code Stream" />
+  <img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Systems Architecture Blueprint" style="border-radius: 10px;" />
 </p>
 
 ---
 
 ### 📖 My Story
-Most developers start their journey on a high-end PC. My journey began in **8th grade** with a **smartphone**, a mobile C++ compiler, and an intense curiosity to figure out how things work. 
+Most developers start their journey on a high-end PC. My journey began in **8th grade** with a **smartphone**, a mobile C++ compiler, and an intense curiosity to figure out how things work.
 
 When you are coding complex logic on a phone, you don't have the luxury of wasting processing power. You learn to write **hyper-efficient, clean algorithms** out of pure necessity. Today, I am combining that raw coding discipline with my deep love for **Physics** to build simulations, engines, and digital worlds.
 
@@ -19,48 +19,43 @@ When you are coding complex logic on a phone, you don't have the luxury of wasti
   <img src="https://img.shields.io/badge/Language-C++17/20-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205-%23313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Environment-Linux%20HPC-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mathematics-Calculus%2FLA-%23121011?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Physics-Computational-FF6F00?style=for-the-badge&logo=physics&logoColor=white" />
 </p>
 
 ---
 
-### 🌌 Computational Physics & Mechanics
+### 🌌 Advanced Computational Physics & Mechanics
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/6ozwFj8FgXpoY/giphy.gif" width="31%" alt="Particle Physics" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/fXp3DCCZzGZqM/giphy.gif" width="31%" alt="Mechanics Schematic" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/LpLd2NGGv9S9i/giphy.gif" width="31%" alt="Fluid Flow" />
+  <img src="https://images.unsplash.com/photo-1614728263952-84ea206f99b6?q=80&w=1974&auto=format&fit=crop" width="48%" alt="Computational Astrophysics Simulation" style="border-radius: 5px;" />
+  <img src="https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=2070&auto=format&fit=crop" width="48%" alt="Mathematical Foundations" style="border-radius: 5px;" />
 </p>
+
 *Exploring the laws of motion, fluid dynamics, and mathematical constants through optimized C++ logic.*
 
 ---
 
-### 🎮 Game Engine Architecture
+### 🎮 Pioneering Game Engine Architecture & Physics Integration
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/O9S4ZSEZ9m65y/giphy.gif" width="48%" alt="UE5 Wireframe" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/3o7TKMGpxP5OlvXpS0/giphy.gif" width="48%" alt="Optimization Data" />
+  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Unreal Engine Data Visualization" style="border-radius: 5px;" />
 </p>
+
 *Building high-fidelity environments and interactive systems where classical mechanics meet digital reality.*
 
 ---
 
 ### 🎯 The Mission
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" alt="Quantum Architecture" />
-
 I am training to be a **Software Engineer** with a foundation in **Theoretical Physics**. My goal is to build the next generation of **Physics Engines**—software that doesn't just look real but follows the true laws of the universe.
 
 ---
 
 ### 🏆 Current Quests (Roadmap to MIT)
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/xT0Gqn793U4p8Xf9lq/giphy.gif" width="100" alt="Achievement Visual" />
-
 - [x] Master basic C++ control flow and memory efficiency.
-- [ ] Build a fully functional physics simulation (Project Sandbox).
-- [ ] Compete in the Zonal Informatics Olympiad (ZIO).
-- [ ] Score 100% in high school core subjects (PCM).
+- [ ] Build a custom Phys-X derived fluid dynamics solver for UE5.
+- [x] Compete in the Zonal Informatics Olympiad (ZIO).
+- [ ] Formulate and submit a research paper on high-fidelity interactive soft-body physics in game environments.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmS8mZfaWQ9MSZjdD1n/13HBDT4QSTpveU/giphy.gif" width="250" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop" width="100%" alt="High Performance Computing" style="border-radius: 10px;" />
 </p>
